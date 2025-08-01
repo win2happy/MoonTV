@@ -84,7 +84,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
     "pianku": {
       "api": "https://www.mypianku.net/api.php/provide/vod",
       "name": "片库资源",

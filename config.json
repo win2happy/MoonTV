@@ -131,9 +131,8 @@
       "detail": "https://guazitv.tv"
     },
     "okzy": {
-      "api": "https://okzy.co/api.php/provide/vod",
-      "name": "OK资源",
-      "detail": "https://okzy.co"
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "OK资源"
     }
   }
 }

@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "okzy": {
-      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "name": "OK资源"
     }
   }

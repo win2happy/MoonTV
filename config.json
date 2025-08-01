@@ -15,6 +15,14 @@
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "okzy": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "OK资源"
+    },
+    "jinyingzy": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
@@ -84,10 +92,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "okzy": {
-      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
-      "name": "OK资源"
     }
   }
 }

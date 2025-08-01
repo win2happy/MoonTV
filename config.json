@@ -85,51 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "pianku": {
-      "api": "https://www.mypianku.net/api.php/provide/vod",
-      "name": "片库资源",
-      "detail": "https://www.mypianku.net"
-    },
-    "duboku": {
-      "api": "https://www.duboku.tv/api.php/provide/vod",
-      "name": "独播库资源",
-      "detail": "https://www.duboku.tv"
-    },
-    "yanetflix": {
-      "api": "https://yanetflix.com/api.php/provide/vod",
-      "name": "奈飞资源",
-      "detail": "https://yanetflix.com"
-    },
-    "555dy": {
-      "api": "https://www.o8tv.com/api.php/provide/vod",
-      "name": "555电影资源",
-      "detail": "https://www.o8tv.com"
-    },
-    "mudvod": {
-      "api": "https://www.mudvod.tv/api.php/provide/vod",
-      "name": "泥巴资源",
-      "detail": "https://www.mudvod.tv"
-    },
-    "dybee": {
-      "api": "https://www.dybee.tv/api.php/provide/vod",
-      "name": "电影蜜蜂资源",
-      "detail": "https://www.dybee.tv"
-    },
-    "olevod": {
-      "api": "https://olevod.com/api.php/provide/vod",
-      "name": "欧乐资源",
-      "detail": "https://olevod.com"
-    },
-    "juhi": {
-      "api": "https://www.juhi.cc/api.php/provide/vod",
-      "name": "剧嗨资源",
-      "detail": "https://www.juhi.cc"
-    },
-    "guazitv": {
-      "api": "https://guazitv.tv/api.php/provide/vod",
-      "name": "瓜子资源",
-      "detail": "https://guazitv.tv"
-    },
     "okzy": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "OK资源"
